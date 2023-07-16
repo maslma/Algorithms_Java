@@ -8,7 +8,7 @@ public class SavingsAccount {
             currentBalance += currentBalance * interestRate;
             years++;
         }
-
         System.out.println("It takes " + years + " years to double your money.");
+
     }
 }
